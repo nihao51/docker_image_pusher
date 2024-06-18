@@ -1,1 +1,1 @@
-MTPHOTO
+mtphotos/mt-photos:latest
